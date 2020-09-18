@@ -1,0 +1,25 @@
+
+
+.container{
+    background-color:black;
+    color:Red;
+    
+
+}
+.box{
+    background-color: red;
+    color:white;
+    padding: 100px;
+    border: 200px;
+    position:relative;  
+    top:250px;
+    left:150px;
+    width: auto;
+}
+
+#keygen{
+    width:100%;
+    color:red;
+
+
+}
